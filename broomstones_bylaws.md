@@ -30,12 +30,12 @@ membership in the Grand National Curling Club of America.
 
 A new club, Broomstones Curling Club, was formed in 1992 to facilitate
 the unification of all curlers at the Broomstones facility and was
-granted membership in the Grand national Curling Club of America the
+granted membership in the Grand National Curling Club of America the
 same year.
 
 In 1997, the participants of Wellesley Curling Club dissolved their
 organization and became members of Broomstones Curling Club. Brae Burn
-and Weston curling clubs continued to exist as independently managed,
+and Weston Curling Clubs continued to exist as independently managed,
 affiliated clubs, offering special events to their members, which
 maintained their specific heritage.
 
