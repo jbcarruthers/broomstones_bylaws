@@ -87,7 +87,7 @@ Board of Directors of the Corporation shall consist of the Officers of
 the Corporation and a minimum of nine (9) Directors.
 
 The President, Senior Vice President, Treasurer and Secretary shall be
-elected annually, but a balloting of the members of the Corporation with
+elected annually, by a balloting of the members of the Corporation with
 voting power, and shall each hold office until the next annual meeting
 of the Corporation and until their respective successors are chosen.
 
@@ -151,7 +151,7 @@ of Directors shall have the following powers:
      and/or employees as they from time to time think fit, and
      determine their powers and duties.
 
-2.  The may fill any vacancies in any of the offices of the Corporation
+2.  They may fill any vacancies in any of the offices of the Corporation
      of terms expired or unexpired.
 
 3.  They may incur such indebtedness as they deem necessary, not
@@ -274,7 +274,7 @@ and date.
 
 Notices of meetings shall be sent to addresses appearing on the records
 of the Corporation. A Board member may be appointed by the Board of
-Directors to sent notices in the absence or failure of the Secretary.
+Directors to send notices in the absence or failure of the Secretary.
 Except as otherwise expressly required by these By-laws, notices of
 meetings of the Corporation and of the Board of Directors need not
 specify the purposes hereof. Notices of annual meetings shall be
