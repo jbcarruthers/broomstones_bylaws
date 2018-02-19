@@ -7,7 +7,7 @@
 5. Article II, paragraph 2. Change "but balloting" to "by balloting"
 6. Throughout: capitalize "the Corporation"
 7. Renumber Article XV to XIV (fourteen was missing)
-8. Renumbe Article XII Fiscal Year to Article XI (eleven was missing)
+8. Renumber Article XII Fiscal Year to Article XI (eleven was missing)
 
 # Gender Pronouns
 
