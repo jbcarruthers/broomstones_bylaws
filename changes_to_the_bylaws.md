@@ -8,6 +8,7 @@
 6. Throughout: capitalize "the Corporation"
 7. Renumber Article XV to XIV (fourteen was missing)
 8. Renumber Article XII Fiscal Year to Article XI (eleven was missing)
+9. Article VI change "a noticed" to "a notice"
 
 # Gender Pronouns
 

@@ -207,7 +207,7 @@ it will be voted in favor of the election of the persons nominated by
 the Nominating Committee except as otherwise specifically instructed
 in writing. Members with the power to vote may submit nominations for
 additional candidates from the floor at the annual meeting, but for
-such nominations from the floor to be valid a noticed by not less than
+such nominations from the floor to be valid a notice by not less than
 seven members, giving the names of such nominees, must first be filed
 with the Secretary not later than ten days prior to the date of the
 annual meeting. The Secretary shall mail to each voting member, at
