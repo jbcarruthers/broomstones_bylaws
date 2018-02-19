@@ -54,13 +54,13 @@ governing body.
 \(a) There shall be two (2) classes of membership on an annual basis:
 
 \(1) Membership with voting privileges at all meetings of the
-Corporation; and eligibility to serve as an officer or as a member of
+Corporation and eligibility to serve as an officer or as a member of
 the Board of Directors.
 
-\(2) Membership without voting privileges; or without eligibility to
+\(2) Membership without voting privileges and without eligibility to
 serve as an officer or as a member of the Board of Directors.
 
-\(b) The voting members of the corporation shall be the subscribers to
+\(b) The voting members of the Corporation shall be the subscribers to
 the Agreement of Association and such additional persons as the Board of
 Directors may from time to time elect to voting membership.
 
@@ -68,13 +68,13 @@ Directors may from time to time elect to voting membership.
 Board of Directors and reviewed on an annual basis. Failure to pay
 membership dues or other club charges for a period of two months after
 the same are payable, or conduct which the Board of Directors deems
-inconsistent with the best interest of the corporation shall constitute
+inconsistent with the best interest of the Corporation shall constitute
 grounds for termination of membership by vote of the Board of Directors.
 
 \(d) Any member may resign by so notifying the Secretary in writing. Such
 resignation shall not relieve the resigning member from obligation to
 pay dues through and including the full year in which the resignation is
-received by the Secretary, or any other indebtedness to the corporation,
+received by the Secretary, or any other indebtedness to the Corporation,
 except as the Board of Directors may from time to time establish rules
 for allocation of obligation for dues with respect to memberships
 existing for a portion of a fiscal year.
@@ -103,28 +103,28 @@ Broomstones’ Board of Directors.
 
 \(a) President: The President when present shall preside at all meetings
 of the Board of Directors, and at the annual meeting or any special
-meeting of the corporation. He/She shall be chief executive officer of
-the corporation, and shall have the general active management of the
-affairs of the corporation between meetings of the Board of Directors
+meeting of the Corporation. The President shall be chief executive officer of
+the Corporation, and shall have the general active management of the
+affairs of the Corporation between meetings of the Board of Directors
 and Executive Committee, subject to any action from time to time taken
 by them or by vote of the members.
 
 \(b) Senior Vice President: The Senior Vice President shall preside at
-meetings of the Board of Directors and of the corporation, in the
+meetings of the Board of Directors and of the Corporation, in the
 absence of the President, shall perform the other powers and duties of
 the President; and shall have such other power and duties as the Board
 of Directors shall from time to time designate.
 
 \(c) Vice Presidents: When appointed, the Vice Presidents shall be chosen
 from the Board of Directors and shall be responsible for key areas of
-the corporation, as designated by the Board of Directors.
+the Corporation, as designated by the Board of Directors.
 
 \(d) Treasurer: Subject to the control of the Board of Directors, the
 Treasurer shall have immediate charge of and keep all money, books of
-account, membership lists and papers of the corporation; shall keep
-accounts of all business transactions of the corporation, shall keep a
-list of all members of the corporation and collect all annual dues and
-other moneys due the corporation; and shall sign any Certificate of
+account, membership lists and papers of the Corporation; shall keep
+accounts of all business transactions of the Corporation, shall keep a
+list of all members of the Corporation and collect all annual dues and
+other moneys due the Corporation; and shall sign any Certificate of
 Membership which may be issued from time to time. The Treasurer shall
 have such other powers and perform such other duties as the Board of
 Directors shall from time to time designate. The books of account of the
@@ -141,7 +141,7 @@ designate.
 
 \(a) The Board of Directors, subject to any action at any time taken by
 vote of the members, shall have the entire charge, control and
-management of the corporation, its property and business and may
+management of the Corporation, its property and business and may
 exercise all or any of its powers.
 
 \(b) Without hereby limiting the generality of the foregoing, the Board
@@ -156,14 +156,14 @@ of Directors shall have the following powers:
 
 3.  They may incur such indebtedness as they deem necessary, not
      contrary to the laws of the Commonwealth of Massachusetts, and
-     mortgage or pledge any or all assets of the corporation as
+     mortgage or pledge any or all assets of the Corporation as
      security therefore.
 
 4.  They may acquire by purchase or otherwise any property, or rights or
      interests with respect to property, real or personal, wherever
      situated, which they may deem necessary or beneficial in carrying
-     out the purposes of the corporation, and may pay for the same
-     either in cash or the obligations of the corporation.
+     out the purposes of the Corporation, and may pay for the same
+     either in cash or the obligations of the Corporation.
 
 5.  They may delegate any of the powers of the Board of Directors to any
      committee, officer or agent.
@@ -192,7 +192,7 @@ Executive Committee.
 There shall be a Nominating Committee of three members to be appointed
 by the Board of Directors no later than the end of February in each
 year, which shall include at least one member of the Board of
-Directors and at least one member of the corporation who is not a
+Directors and at least one member of the Corporation who is not a
 member of the Board of Directors. It shall be the duty of the
 Nominating Committee to consider candidates representing a range of
 members including female, male, social and competitive curlers.
@@ -202,7 +202,7 @@ the next annual meeting.
 The Nominating Committee shall report its nominations to the Secretary
 no later than the end of March, and a report of such nominations shall
 be sent to each voting member, with the notice of the meeting. Any
-proxy solicited by the management of the corporation shall state that
+proxy solicited by the management of the Corporation shall state that
 it will be voted in favor of the election of the persons nominated by
 the Nominating Committee except as otherwise specifically instructed
 in writing. Members with the power to vote may submit nominations for
@@ -233,41 +233,41 @@ an  additional vote to purposes of breaking the tie.
 
 # ARTICLE VIII Meetings of the Corporation
 
-\(a) The annual meeting of the corporation shall be held no later than
+\(a) The annual meeting of the Corporation shall be held no later than
 fifteen days after the end of the fiscal year and at such place in the
 Commonwealth of Massachusetts as may be fixed by the Board of Directors,
 and shall be for the purpose of the election of officers and receiving
 reports and for any other business that may arise.
 
-\(b) Special meetings of the corporation may be called at any time by the
+\(b) Special meetings of the Corporation may be called at any time by the
 President or by any two members of the Board of Directors, or by the
 Secretary upon written request of five voting members. Said meeting
 shall be held at such place in the Commonwealth of Massachusetts as
 shall be fixed by the Board of Directors
 
-\(c) At any meeting of the corporation, a quorum for the transaction of
+\(c) At any meeting of the Corporation, a quorum for the transaction of
 business shall consist of not less than 35 voting members of the
-corporation, or a majority of the voting members of the corporation
+Corporation, or a majority of the voting members of the Corporation
 (whichever shall be the lesser number) present in person or by proxy,
 provided that any number of members (whether one or more and whether or
 not constituting a quorum) present at any meeting shall have power to
 make any reasonable adjournment thereof.
 
-\(d) Members of the corporation with power to vote may vote either in
+\(d) Members of the Corporation with power to vote may vote either in
 person or in proxy, and shall each have one vote. No proxy which is
 dated more than six months before the meeting named therein shall be
 accepted, and no such proxy shall be valid after the final adjournment
 of such meeting.
 
-\(e) The members of the corporation with power to vote may at any meeting
-choose a successor to any officer who has vacated his/her office and the
+\(e) The members of the Corporation with power to vote may at any meeting
+choose a successor to any officer who has vacated their office and the
 person so chosen shall displace any successor who may have been chosen
 by the Board of Directors and shall hold office for the unexpired term
 of the officer who has vacated that office.
 
 # ARTICLE IX Notice of Meetings
 
-Notice of all meetings of the corporation, shall be given by the
+Notice of all meetings of the Corporation, shall be given by the
 Secretary in writing, mailed to each voting member at least fourteen
 days prior to the meeting. Such notice shall consist of location, time
 and date.
@@ -283,25 +283,25 @@ as provided in Article VI hereof.
 
 # ARTICLE X Seal
 
-The seal of the corporation shall bear the name of the corporation, the
+The seal of the Corporation shall bear the name of the Corporation, the
 year of its organization and such other device, if any, as the Board of
 Directors may determine.
 
-# ARTICLE XII Fiscal Year
+# ARTICLE XI Fiscal Year
 
-The fiscal year of the corporation shall be the twelve month period
+The fiscal year of the Corporation shall be the twelve month period
 ending with the last day of May.
 
 # ARTICLE XII Checks and Other Instruments
 
 Checks, notes, drafts and other instruments for the payment of money
-drawn or endorsed in the name of the corporation may be signed by any
+drawn or endorsed in the name of the Corporation may be signed by any
 officer or officers or person or persons authorized by the Directors to
 sign the same. No officer or person shall sign any such instrument as
 aforesaid unless authorized by the Directors to do so.
 
 Checks, notes, drafts and other instruments for the payment of money
-drawn or endorsed in the name of the corporation, in amounts \$10,000
+drawn or endorsed in the name of the Corporation, in amounts \$10,000
 and greater, must be signed by the Treasurer and one other Officer as
 determined by the Board of Directors. Financial transfers between
 Broomstones, Inc. accounts shall be excluded from the aforementioned.
@@ -309,17 +309,17 @@ Broomstones, Inc. accounts shall be excluded from the aforementioned.
 # ARTICLE XIII Amendments
 
 These By-laws may be amended at any regular or special meeting of the
-corporation by a two-thirds vote of the members of the corporation with
+Corporation by a two-thirds vote of the members of the Corporation with
 power to vote present at the meeting, in person or by proxy, provided
 that such amendment, or the substance thereof, is stated in the notice
 of such meeting.
 
-# ARTICLE XV Indemnification
+# ARTICLE XIV Indemnification
 
-This corporation shall defend, indemnify, and hold harmless each of its
+This Corporation shall defend, indemnify, and hold harmless each of its
 Directors and Officers from and against all claims, charges and expenses
-which he or she incurs as a result of any action or lawsuit brought
-against such Governor or Officer arising out of the latter’s performance
-of his or her duties in this corporation, unless such claims and
+which they incur as a result of any action or lawsuit brought
+against such Director or Officer arising out of the latter’s performance
+of their duties in this Corporation, unless such claims and
 expenses were caused by fraud, gross negligence, or willful neglect on
-the part of the Governor or Officer.
+the part of the Director or Officer.
