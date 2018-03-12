@@ -66,11 +66,12 @@ curling opportunities for all ages and skill levels.
 \(a) There shall be two (2) classes of membership on an annual basis:
 
 \(1) Membership with voting privileges at all meetings of the
-Corporation and eligibility to serve as an officer or as a member of
-the Board of Directors.
+Corporation, with eligibility to serve as an officer, and with eligibility to serve 
+as a member of the Board of Directors.
 
-\(2) Membership without voting privileges and without eligibility to
-serve as an officer or as a member of the Board of Directors.
+\(2) Membership without voting privileges, without eligibility to
+serve as an officer, and without eligibility to serve as a 
+member of the Board of Directors.
 
 \(b) The voting members of the Corporation shall be the subscribers to
 the Agreement of Association and such additional persons as the Board of
