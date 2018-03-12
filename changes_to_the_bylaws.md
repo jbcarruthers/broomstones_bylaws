@@ -3,15 +3,15 @@
 1. History, paragraph 1. change "curling slubs" to "curling clubs" (note: this was correct in the DOC, not in the PDF)
 2. History. Make capitalization of Curling Club consistent throughout.
 3. History. remove ; line 48
-3. Artiicle II officers. dor and or issue with term
+4. Artiicle II officers.  and or issue with term vs no successors
 5. Article II, paragraph 2. Change "but balloting" to "by balloting"
-3. Article IV (a) 2. change "The may" to "They may"
-4. Article III. Clarify SVP duties.
-4. Article IX, paragraph 2. Change "sent notices" to "send notices"
-6. Throughout: capitalize "the Corporation"
-7. Renumber Article XV to XIV (fourteen was missing)
-8. Renumber Article XII Fiscal Year to Article XI (eleven was missing)
-9. Article VI change "a noticed" to "a notice"
+6. Article IV (a) 2. change "The may" to "They may"
+7. Article III. Clarify SVP duties.
+8. Article IX, paragraph 2. Change "sent notices" to "send notices"
+9. Throughout: capitalize "the Corporation"
+10. Renumber Article XV to XIV (fourteen was missing)
+11. Renumber Article XII Fiscal Year to Article XI (eleven was missing)
+12. Article VI change "a noticed" to "a notice"
 
 # Gender Pronouns
 
