@@ -9,6 +9,7 @@ header-includes: |
      \renewcommand{\headrulewidth}{0pt}
 ---
 
+*REVISED MAY 5, 2018*
 
 *REVISED MAY 10, 2008*
 
@@ -48,6 +49,17 @@ an effort to product a cohesive organization which will implement
 long-range strategic planning for the Corporation as a whole the
 Broomstones, Inc. Board of Directors formally became the primary
 governing body.
+
+
+***MISSION STATEMENT***
+
+Broomstones believes strongly in the spirit of curling and the 
+promotion and development of the sport locally, regionally, 
+nationally, and internationally.
+
+Broomstones operates a high quality, member run, curling facility 
+offering recreational and competitive
+curling opportunities for all ages and skill levels.
 
 # ARTICLE I Membership
 
