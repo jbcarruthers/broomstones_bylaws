@@ -2,9 +2,12 @@
 
 1. History, paragraph 1. change "curling slubs" to "curling clubs" (note: this was correct in the DOC, not in the PDF)
 2. History. Make capitalization of Curling Club consistent throughout.
-3. Article IV (a) 2. change "The may" to "They may"
-4. Article IX, paragraph 2. Change "sent notices" to "send notices"
+3. History. remove ; line 48
+3. Artiicle II officers. dor and or issue with term
 5. Article II, paragraph 2. Change "but balloting" to "by balloting"
+3. Article IV (a) 2. change "The may" to "They may"
+4. Article III. Clarify SVP duties.
+4. Article IX, paragraph 2. Change "sent notices" to "send notices"
 6. Throughout: capitalize "the Corporation"
 7. Renumber Article XV to XIV (fourteen was missing)
 8. Renumber Article XII Fiscal Year to Article XI (eleven was missing)
@@ -20,3 +23,11 @@
 
 1. Article XV change Governor to Director (twice)
 2. Article I (a) replace semicolons and make clear voting rights and serving on Board go together.
+
+
+# New features
+
+1. Fix annual meeting date specification
+2. Add email as valid means of communication
+3. Add the mission statement
+
