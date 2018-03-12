@@ -7,3 +7,7 @@ Articles of Association - review ?
 
 Article V refers to the Agreement of Association and Articles of Organization.
 These should be recorded somewhere.
+
+
+Clarity over how two membership classes correspond to memberships: 
+right now, full membership is required, all other member classes are non-voting.

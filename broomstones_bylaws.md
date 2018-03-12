@@ -45,7 +45,7 @@ Memberships with Weston Curling Club and/or Brae Burn Curling Club are
 freely encouraged. These affiliated clubs may use the Broomstones
 facility, when available, for special events at no additional charge. In
 an effort to product a cohesive organization which will implement
-long-range strategic planning for the Corporation as a whole; the
+long-range strategic planning for the Corporation as a whole the
 Broomstones, Inc. Board of Directors formally became the primary
 governing body.
 
@@ -89,7 +89,7 @@ the Corporation and a minimum of nine (9) Directors.
 The President, Senior Vice President, Treasurer and Secretary shall be
 elected annually, by a balloting of the members of the Corporation with
 voting power, and shall each hold office until the next annual meeting
-of the Corporation and until their respective successors are chosen.
+of the Corporation or until their respective successors are chosen.
 
 Directors shall serve three (3) year, overlapping terms. Three Directors
 shall be elected each year at the annual meeting, by balloting of the
@@ -101,18 +101,23 @@ Broomstones’ Board of Directors.
 
 # ARTICLE III Powers and Duties of Officers
 
-\(a) President: The President when present shall preside at all meetings
-of the Board of Directors, and at the annual meeting or any special
-meeting of the Corporation. The President shall be chief executive officer of
+\(a) President: The President, when present, shall preside at all meetings
+of the Board of Directors and at the annual meeting or any special
+meeting of the Corporation. The President shall be the chief executive officer of
 the Corporation, and shall have the general active management of the
 affairs of the Corporation between meetings of the Board of Directors
 and Executive Committee, subject to any action from time to time taken
 by them or by vote of the members.
 
-\(b) Senior Vice President: The Senior Vice President shall preside at
-meetings of the Board of Directors and of the Corporation, in the
-absence of the President, shall perform the other powers and duties of
-the President; and shall have such other power and duties as the Board
+\(b) Senior Vice President: The Senior Vice President shall 
+
+1. In the absence of the President, preside at
+meetings of the Board of Directors and of the Corporation;
+
+2. In the absence of the President, perform the other powers and duties of
+the President; and
+
+3. have such other power and duties as the Board
 of Directors shall from time to time designate.
 
 \(c) Vice Presidents: When appointed, the Vice Presidents shall be chosen
@@ -122,14 +127,14 @@ the Corporation, as designated by the Board of Directors.
 \(d) Treasurer: Subject to the control of the Board of Directors, the
 Treasurer shall have immediate charge of and keep all money, books of
 account, membership lists and papers of the Corporation; shall keep
-accounts of all business transactions of the Corporation, shall keep a
+accounts of all business transactions of the Corporation; shall keep a
 list of all members of the Corporation and collect all annual dues and
 other moneys due the Corporation; and shall sign any Certificate of
 Membership which may be issued from time to time. The Treasurer shall
 have such other powers and perform such other duties as the Board of
 Directors shall from time to time designate. The books of account of the
 Treasurer may be audited annually by a certified public accountant or
-other suitable person, to be designated by the Board of Directors.
+other suitable person to be designated by the Board of Directors.
 
 \(e) Secretary: The Secretary shall record all votes and proceedings at
 meetings of the Corporation and of the Board of Directors and Executive
@@ -147,8 +152,8 @@ exercise all or any of its powers.
 \(b) Without hereby limiting the generality of the foregoing, the Board
 of Directors shall have the following powers:
 
-1.  They may appoint and/or remove any officer, board member, agents,
-     and/or employees as they from time to time think fit, and
+1.  They may appoint or remove any officer, board member, agents,
+     or employees as they from time to time think fit, and
      determine their powers and duties.
 
 2.  They may fill any vacancies in any of the offices of the Corporation
@@ -181,7 +186,7 @@ of the current and ordinary business of the Corporation and the powers
 of the Board of Directors, except the power to elect and remove
 officers and except those powers which, by law, or the Agreement of
 Association and Articles of Organization or By-laws of the
-Corporation, the Board of Directors is prohibited from delegating; all
+Corporation, the Board of Directors is prohibited from delegating all
 subject to any action with respect to such authority from time to time
 taken by the Board of Directors or by vote of the members. The
 presiding officer may vote without restriction at meetings of the
@@ -210,14 +215,14 @@ additional candidates from the floor at the annual meeting, but for
 such nominations from the floor to be valid a notice by not less than
 seven members, giving the names of such nominees, must first be filed
 with the Secretary not later than ten days prior to the date of the
-annual meeting. The Secretary shall mail to each voting member, at
-least five days before the annual meeting, a copy of any such notice
-of intention to nominate from the floor.
+annual meeting. The Secretary shall mail or send by electronic transmission 
+a copy of any such notice of intention to nominate from the floor
+to each voting member, at least five days before the annual meeting, 
 
 # ARTICLE VII Meetings of the Board of Directors
 
 \(a) Meetings of the Board of Directors may be called at any time by
-the  President, or by any two of the Board of Directors. All meetings
+the  President or by any two of the Board of Directors. All meetings
 of the  Board of Directors shall be held at such place as shall be
 designated in  the call thereof, or (in the case of an adjourned
 meeting) in the vote  of adjournment of a prior session of such
@@ -229,24 +234,24 @@ constitute  a quorum.
 \(c) The presiding officer may vote without restriction at meetings of
 the Board of Directors, and in the event of a tie vote the President,
 or  Senior Vice President, if acting as presiding officer, shall have
-an  additional vote to purposes of breaking the tie.
+an  additional vote for the purposes of breaking the tie.
 
 # ARTICLE VIII Meetings of the Corporation
 
-\(a) The annual meeting of the Corporation shall be held no later than
-fifteen days after the end of the fiscal year and at such place in the
+\(a) The annual meeting of the Corporation shall be held between the 
+First Day of April and the Last Day of May and at such place in the
 Commonwealth of Massachusetts as may be fixed by the Board of Directors,
 and shall be for the purpose of the election of officers and receiving
 reports and for any other business that may arise.
 
 \(b) Special meetings of the Corporation may be called at any time by the
-President or by any two members of the Board of Directors, or by the
+President, by any two members of the Board of Directors, or by the
 Secretary upon written request of five voting members. Said meeting
 shall be held at such place in the Commonwealth of Massachusetts as
 shall be fixed by the Board of Directors
 
 \(c) At any meeting of the Corporation, a quorum for the transaction of
-business shall consist of not less than 35 voting members of the
+business shall consist of no fewer than thirty five (35) voting members of the
 Corporation, or a majority of the voting members of the Corporation
 (whichever shall be the lesser number) present in person or by proxy,
 provided that any number of members (whether one or more and whether or
@@ -254,7 +259,7 @@ not constituting a quorum) present at any meeting shall have power to
 make any reasonable adjournment thereof.
 
 \(d) Members of the Corporation with power to vote may vote either in
-person or in proxy, and shall each have one vote. No proxy which is
+person or in proxy, and shall each have one vote. No proxy that is
 dated more than six months before the meeting named therein shall be
 accepted, and no such proxy shall be valid after the final adjournment
 of such meeting.
@@ -268,12 +273,12 @@ of the officer who has vacated that office.
 # ARTICLE IX Notice of Meetings
 
 Notice of all meetings of the Corporation, shall be given by the
-Secretary in writing, mailed to each voting member at least fourteen
-days prior to the meeting. Such notice shall consist of location, time
-and date.
+Secretary in writing, and sent by mail or electronic transmission to each 
+voting member at least fourteen days prior to the meeting. 
+Such notice shall consist of location, time and date.
 
-Notices of meetings shall be sent to addresses appearing on the records
-of the Corporation. A Board member may be appointed by the Board of
+Notices of meetings shall be sent to addresses or electronic addressses 
+appearing on the records of the Corporation. A Board member may be appointed by the Board of
 Directors to send notices in the absence or failure of the Secretary.
 Except as otherwise expressly required by these By-laws, notices of
 meetings of the Corporation and of the Board of Directors need not
